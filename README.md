@@ -1,6 +1,6 @@
-# 💲 ShopNexus – Full Stack Ecommerce App
+# 💲 FlutterZon – Full Stack Ecommerce App
 
-ShopNexus is a full-stack **E-Commerce App** (Amazon Clone) built using **Flutter (Frontend)** and **Node.js + MongoDB (Backend)**.
+FlutterZon is a full-stack **E-Commerce App** (Amazon Clone) built using **Flutter (Frontend)** and **Node.js + MongoDB (Backend)**.
 It provides a complete e-commerce experience, with real-time product management, payments, analytics, and more.
 
 ---
@@ -202,7 +202,7 @@ UPLOAD_PRESET=your_upload_preset
 ### ☁️ MongoDB (Backend)
 
 ```bash
-DB_URL=mongodb+srv://<username>:<password>@cluster.mongodb.net/shopnexus
+DB_URL=mongodb+srv://<username>:<password>@cluster.mongodb.net/flutterzon
 JWT_SECRET=your_secret_key
 PORT=3000
 ```
