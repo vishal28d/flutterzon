@@ -114,7 +114,7 @@ It provides a complete e-commerce experience, with real-time product management,
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/vishal28d/shopnexus.git
+   git clone https://github.com/vishal28d/flutterzon.git
    ```
 
 2. Navigate to project folder:
