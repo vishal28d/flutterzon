@@ -90,7 +90,7 @@ It provides a complete e-commerce experience, with real-time product management,
 3. Open `index.js` and replace with your MongoDB connection string:
 
    ```js
-   const DB = "mongodb+srv://<username>:<password>@cluster.mongodb.net/shopnexus";
+   const DB = "mongodb+srv://<username>:<password>@cluster.mongodb.net/flutterzon";
    ```
 
 4. Run the backend:
@@ -120,7 +120,7 @@ It provides a complete e-commerce experience, with real-time product management,
 2. Navigate to project folder:
 
    ```bash
-   cd shopnexus
+   cd flutterzon
    ```
 
 3. Install dependencies:
@@ -260,4 +260,4 @@ If you found this project helpful, please give it a ⭐ on GitHub — it motivat
 
 ---
 
-**ShopNexus – Built with Flutter ❤️ & Node.js **
+**FlutterZon – Built with Flutter ❤️ & Node.js **
