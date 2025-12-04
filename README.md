@@ -31,14 +31,14 @@ It provides a complete e-commerce experience, with real-time product management,
 
 ---
 
-<img width="54" height="120" alt="Screenshot_1764851555" src="https://github.com/user-attachments/assets/d35bda68-174d-4ccb-bc05-d9b2ead45611" />
-<img width="54" height="120" alt="Screenshot_1764851572" src="https://github.com/user-attachments/assets/9cafbc66-1e22-47e9-9919-973a22d756ce" />
-<img width="54" height="120" alt="Screenshot_1764851592" src="https://github.com/user-attachments/assets/d37986fc-7566-45ff-838b-13aa0fa9615c" />
-<img width="54" height="120" alt="Screenshot_1764851610" src="https://github.com/user-attachments/assets/9c7ba2c0-c46d-471f-ba14-0fbfbf79e52d" />
-<img width="54" height="120" alt="Screenshot_1764851615" src="https://github.com/user-attachments/assets/33b661b0-e54c-4720-b687-d7561913c97a" />
-<img width="54" height="120" alt="Screenshot_1764851648" src="https://github.com/user-attachments/assets/e728ea9e-6939-47d6-9bf3-676a7af6aa72" />
-<img width="54" height="120" alt="Screenshot_1764851672" src="https://github.com/user-attachments/assets/a620b895-5660-478d-b178-dad96832e20d" />
-<img width="54" height="120" alt="Screenshot_1764851734" src="https://github.com/user-attachments/assets/b9733837-cba0-4326-b7f8-ab27d3c1ede2" />
+<img width="162" height="360" alt="Screenshot_1764851555" src="https://github.com/user-attachments/assets/d35bda68-174d-4ccb-bc05-d9b2ead45611" />
+<img width="162" height="360" alt="Screenshot_1764851572" src="https://github.com/user-attachments/assets/9cafbc66-1e22-47e9-9919-973a22d756ce" />
+<img width="162" height="360" alt="Screenshot_1764851592" src="https://github.com/user-attachments/assets/d37986fc-7566-45ff-838b-13aa0fa9615c" />
+<img width="162" height="360" alt="Screenshot_1764851610" src="https://github.com/user-attachments/assets/9c7ba2c0-c46d-471f-ba14-0fbfbf79e52d" />
+<img width="162" height="360" alt="Screenshot_1764851615" src="https://github.com/user-attachments/assets/33b661b0-e54c-4720-b687-d7561913c97a" />
+<img width="162" height="360" alt="Screenshot_1764851648" src="https://github.com/user-attachments/assets/e728ea9e-6939-47d6-9bf3-676a7af6aa72" />
+<img width="162" height="360" alt="Screenshot_1764851672" src="https://github.com/user-attachments/assets/a620b895-5660-478d-b178-dad96832e20d" />
+<img width="162" height="360" alt="Screenshot_1764851734" src="https://github.com/user-attachments/assets/b9733837-cba0-4326-b7f8-ab27d3c1ede2" />
 
 
 
